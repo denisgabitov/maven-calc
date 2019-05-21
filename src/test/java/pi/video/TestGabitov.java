@@ -16,7 +16,7 @@ public class TestGabitov {
 		 * Подставляет тестовые значения в метод toCalculate, который рассчитывает
 		 * количество памяти в неформатированном виде
 		 * После чего результат сравнивается с ожидаемым значением*/
-		assertTrue(Calculate.toCalculate(testValues1) == 1297.4431738257409);
+		assertTrue(Calculate.toCalculate(testValues1) == 1297.4431738257408);
 	}
 	
 }
